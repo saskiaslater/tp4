@@ -1,16 +1,13 @@
 h1 {
-<<<<<<< HEAD
   font-family: Cookbook Title;
   color: Orange;
   font-size: 50px;
-=======
-  font-family: Times New Roman;
-  color: purple;
->>>>>>> b0e11577923dbc5759d545fe2cc141ba38d7a04d
 }
 
 h4 {
-  margin-bottom: 0;
+  margin-bottom: 10px;
+  font-size: 25px;
+  font-family: Hurson;
 }
 
 ul, ol {
@@ -20,24 +17,36 @@ ul, ol {
 .copyright {
   font-family: Arial;
   color: green;
-  font-size: 9px;
+  font-size: 12px;
   font-style: italic;
 }
 
 #ingredients {
-  font-family: Hurson;
+  font-family: Calibri;
   color: brown;
   font-size: 20px;
 }
 
 #equipment {
-  font-family: Hurson;
+  font-family: Calibri;
   color: brown;
   font-size: 20px;
 }
 
 #directions {
-  font-family: Hurson;
+  font-family: Calibri;
   color: brown;
   font-size: 20px;
+}
+
+.pasta {
+  font-weight: bold;
+}
+
+.lastdirection {
+  font-style: italic;
+}
+
+.strainer {
+  font-style: oblique;
 }
